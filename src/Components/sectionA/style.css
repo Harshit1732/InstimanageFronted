@@ -1,0 +1,17 @@
+.sectionA_text{
+    font-size: 22px;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.section_button{
+    width:8%;
+    height:40px;
+    text-align: center;
+    background-color: #55b3e6;
+    font-size: 12px;
+    font-weight: 400;
+    border: none;
+    border-radius: 5px;
+    color:white
+}
